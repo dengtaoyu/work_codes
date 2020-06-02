@@ -1,0 +1,22 @@
+{	
+	"mode_cal_List":["fullLoad","partLoad"],
+	"mode_cal_Select":["fullLoad"],
+	"iter_var":["Tamb","IGV","TT1","GIRI"],
+	"Tamb" :[0,1,1],
+	"UR":[30],
+	"Pamb" :[1.01325],
+	"IGV" : [95,115,10],
+	"TT1" : [1200,1300,100],
+	"TT2" : [550,560,10],
+	"GIRI" :[3000,3100,100],
+	"PGT" :[71510.0],
+	"head" :"[yudengtao][39300135] \n Project:78 MW AE64.3A  ",
+	"NAMEMAP":"TGS_943A_71,",
+	"end1" :"\nICOMB=1,HC=27.28,PC=50032,WC=75.9094,WH=23.8551,WO=0,WS=0,WAR=0,WHE=0,\nINOX=0,",
+	"end2" :"\nTEST=0,MTR=19,MIWS=0,TIWS=25,PIWS=30,IWS=2,MICE=0,\nIPMAX=0,\nEtaGEN=100,PAUX=0,\n&FINE"
+	
+	
+	
+	
+
+}
