@@ -71,4 +71,6 @@ C:\Program Files (x86)\AnsaldoEnergia\APC3\APC3.exe
 ```
 
 
+## Python数据后处理程序
+[叶轮径向力计算](Fr_cal.py)
 
